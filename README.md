@@ -103,6 +103,15 @@ for more information) (Note: I haven't even tried this out yet... not really sur
 [SWFObject Documentation]: http://code.google.com/p/swfobject/wiki/documentation
 
 
+Usage
+-----
+
+1. Using the Paperclipped Assets manager, upload an SWF File
+2. Using the Paperclipped Assets Bucket, attach an SWF File to a page
+3. Place the `r:assets:swfembed` tag within your `<head>` tag (probably in a layout)
+4. Place an `r:assets:swfobject` tag within your page where you would like your SWF to appear
+
+
 Dependencies and Versions
 -------------------------
 
